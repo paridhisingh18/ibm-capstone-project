@@ -23,7 +23,7 @@ The insights are visualized using a **multi-tab dashboard** in **IBM Cognos Anal
 
 ---
 
-## 📊ashboard Structure
+## Dashboard Structure
 
  Tab Title                     |       Insights Covered                                      
 -----------------------------------------------------------------------------------
